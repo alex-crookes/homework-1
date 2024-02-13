@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="ledger_balance">Balance</string>
+    <string name="ledger_income">Income</string>
+    <string name="ledger_expenses">Expenses</string>
+</resources>
